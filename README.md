@@ -97,7 +97,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/R57Cb5EtNk/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/R57Cb5EtNk?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/R57Cb5EtNk?theme=dark&font=Syne" alt="LeetCode Stats" />
   </a>
 </div>
 
