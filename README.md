@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTRoem00YWJ6dGJyaWtuYTBwMmN2aTZmbmw5ZThwMTVpcmx1NjdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" width="400">
+</p>
 # 💫 About Me:
 🔭 I’m currently working on **AI/ML projects, my personal portfolio, and improving my DSA skills**<br><br>🤝 I’m looking to collaborate on **Open Source, AI/ML projects, and innovative web applications**<br><br>🛠️ I’m looking for help with **scaling projects, system design, and real-world AI implementations**<br><br>🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning, and Backend Development**<br><br>💬 Ask me about **Web Development, Portfolio Building, GitHub, or starting with DSA**<br><br>⚡ Fun fact: **I love turning ideas into real projects and sharing them with the world 🌍**<br>
 
