@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTRoem00YWJ6dGJyaWtuYTBwMmN2aTZmbmw5ZThwMTVpcmx1NjdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" width="100%" alt="Header Anime GIF" style="border-radius: 12px; margin-bottom: 20px;">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTRoem00YWJ6dGJyaWtuYTBwMmN2aTZmbmw5ZThwMTVpcmx1NjdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" width="400" alt="Header Anime GIF" style="border-radius: 12px; margin-bottom: 20px;">
 
+<div>
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E95D3&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Ayush+Kumar+Jena+%F0%9F%91%8B;Aspiring+Software+Engineer;AI%2FML+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E95D3&center=false&vCenter=true&random=false&width=530&lines=Hi+there%2C+I'm+Ayush+Kumar+Jena+%F0%9F%91%8B;Aspiring+Software+Engineer;AI%2FML+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </h1>
   
   <p><em>Crafting intelligent solutions through code & continuous learning.</em></p>
   
-  <div>
+  <div style="margin-top: 20px;">
     <a href="https://www.ayushkumarjena.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/ayush-kumar-jena-b19151321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/ig_ayush099/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -16,6 +16,7 @@
   </div>
 </div>
 
+<br clear="both">
 <br>
 
 ---
