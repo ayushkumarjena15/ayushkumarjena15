@@ -111,6 +111,4 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=ayushkumarjena15&icon=0&color=0" alt="Profile Views" />
 </div>
