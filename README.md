@@ -106,5 +106,13 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarjena15&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
