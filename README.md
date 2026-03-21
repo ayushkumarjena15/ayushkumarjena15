@@ -93,7 +93,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushkumarjena15&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushkumarjena15&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
