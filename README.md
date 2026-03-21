@@ -91,12 +91,6 @@
 
 <h2 align="center">📈 Coding Activity & Stats</h2>
 
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayushkumarjena15&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarjena15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumarjena15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
