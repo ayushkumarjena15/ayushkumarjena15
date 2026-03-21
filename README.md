@@ -105,7 +105,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushkumarjena15&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
   <a href="https://leetcode.com/u/R57Cb5EtNk/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/R57Cb5EtNk?theme=dark&font=Syne" alt="LeetCode Stats" />
   </a>
