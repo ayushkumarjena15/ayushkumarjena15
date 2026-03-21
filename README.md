@@ -6,6 +6,8 @@
   </h1>
   
   <p><em>Crafting intelligent solutions through code & continuous learning.</em></p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=Profile%20Views&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
   
   <div style="margin-top: 20px;">
     <a href="https://www.ayushkumarjena.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"></a>
@@ -88,6 +90,12 @@
 ---
 
 <h2 align="center">📈 Coding Activity & Stats</h2>
+
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushkumarjena15&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarjena15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
