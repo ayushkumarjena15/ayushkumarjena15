@@ -94,11 +94,74 @@
 
 <div align="center">
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-```txt
-No activity tracked
+**🐱 My GitHub Data** 
+
+> 📦 95.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 304 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+🌆 Daytime                36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+🌃 Evening                138 commits         ████████████░░░░░░░░░░░░░   46.00 % 
+🌙 Night                  112 commits         █████████░░░░░░░░░░░░░░░░   37.33 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Wednesday                58 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Thursday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Saturday                 99 commits          ████████░░░░░░░░░░░░░░░░░   33.00 % 
+Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ayushkumarjena15/ayushkumarjena15/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/03/2026 20:38:57 UTC
 <!--END_SECTION:waka-->
 </div>
 
