@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Hacker Matrix GIF" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </div>
 
 <div align="center">
