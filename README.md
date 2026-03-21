@@ -99,12 +99,17 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushkumarjena15&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" style="max-height: 195px; object-fit: cover;" />
   <a href="https://leetcode.com/u/R57Cb5EtNk/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/R57Cb5EtNk?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" style="max-height: 195px; object-fit: cover;" />
   </a>
 </div>
 
+<br>
+
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
 
 ---
 
