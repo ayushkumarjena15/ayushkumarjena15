@@ -92,7 +92,6 @@
 
 <br>
 
-<div align="center">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
@@ -163,7 +162,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
  Last Updated on 21/03/2026 20:55:13 UTC
 <!--END_SECTION:waka-->
-</div>
 
 ---
 
