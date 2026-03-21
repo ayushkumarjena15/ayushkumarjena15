@@ -178,4 +178,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azkyMXNlMDJoajhpdGE3ZDVwZGVtY3dtYm90bmw0OHJpdjJiaGliaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/p3uZvqib1ewP6qTqch/giphy.gif" width="480" alt="Bye GIF" style="border-radius: 12px;" />
+</div>
+
+<br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18&height=120&section=footer" alt="footer"/>
