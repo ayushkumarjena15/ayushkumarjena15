@@ -93,6 +93,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -151,7 +153,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ayushkumarjena15/ayushkumarjena15/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2026 18:32:01 UTC
+ Last Updated on 22/03/2026 18:32:42 UTC
 <!--END_SECTION:waka-->
 
 ---
