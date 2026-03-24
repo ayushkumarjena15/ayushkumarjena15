@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E_+$+whoami;%3E_+$+Initializing+system...;Hello,+I'm+Ayush+Kumar+Jena;Software+Engineer+%7C+AI%2FML+Enthusiast;%3E_+$+Access+Granted." alt="Typing SVG" />
   </h1>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=F700FF&style=for-the-badge" alt="Profile Views Counter" />
   
   <p><em>Executing ideas through code | Training models | Building the future ⚡</em></p>
   
@@ -22,9 +22,12 @@
 <br clear="both">
 <br>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">💻 <code>System.getProfile()</code></h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=💻+System.getProfile();Fetching+User+Identity..." alt="System Profile" />
+</div>
 
 ```json
 {
@@ -45,9 +48,12 @@
 }
 ```
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">⚡ Technology Stack Details</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=⚡+Technology+Stack;Core+Processing+Units;Cloud+%26+Databases..." alt="Tech Stack" />
+</div>
 
 <div align="center">
   <p><b>Core Processing</b></p>
@@ -73,20 +79,23 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vercel,netlify&perline=10" alt="DevOps"/>
 </div>
 
----
-
-<h2 align="center">📈 Coding Activity & Stats</h2>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarjena15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=ayushkumarjena15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=📈+Coding+Activity+%26+Stats;Analyzing+Contributions..." alt="Coding Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarjena15&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ayushkumarjena15&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://leetcode.com/u/R57Cb5EtNk/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/R57Cb5EtNk?theme=dark&font=Syne" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/R57Cb5EtNk?theme=unicorn&font=Syne" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -158,15 +167,25 @@ Python                   1 repo              █░░░░░░░░░░�
  Last Updated on 24/03/2026 17:48:00 UTC
 <!--END_SECTION:waka-->
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarjena15&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=📊+Activity+Graph;Commits+Over+Time..." alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarjena15&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFF00&center=true&vCenter=true&width=500&lines=🐍+Contribution+Snake;Eating+My+Way+Through+Commits..." alt="Contribution Snake" />
+</div>
 
 <div align="center">
   <picture>
@@ -176,8 +195,13 @@ Python                   1 repo              █░░░░░░░░░░�
   </picture>
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=📖+Daily+Wisdom;Words+To+Code+By..." alt="Daily Wisdom" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
