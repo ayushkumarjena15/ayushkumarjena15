@@ -79,7 +79,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarjena15&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushkumarjena15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ayushkumarjena15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
