@@ -1,10 +1,7 @@
 <div align="left">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px;">
-      </td>
-      <td width="50%" align="left" valign="top">
+      <td width="55%" align="left" valign="top">
         <br>
         <h1>Hi, I am Ayush! 👋</h1>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=false&vCenter=true&random=false&width=400&lines=Software+Engineer;AI%2FML+Enthusiast;Building+the+future+⚡" alt="Typing SVG" />
@@ -18,6 +15,9 @@
           <a href="https://x.com/AyushJena1504" target="_blank"><img src="https://img.shields.io/badge/>_TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
           <a href="mailto:ahalyajena28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/>_EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF41" alt="Email"></a>
         </div>
+      </td>
+      <td width="45%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px;">
       </td>
     </tr>
   </table>
