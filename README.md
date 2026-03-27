@@ -1,27 +1,22 @@
-<div align="left">
-  <table border="0">
-    <tr>
-      <td width="55%" align="left" valign="top">
-        <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&background=FFFFFF00&center=false&vCenter=true&width=600&lines=Hi,+I'm+Ayush+Kumar+Jena!+%F0%9F%91%8B" alt="Header Name" />
-        <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=false&vCenter=true&width=450&lines=Software+Engineer;AI%2FML+Enthusiast;Building+the+Future" alt="Typing SVG" />
-        <br>
-        <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
-        <br><br>
-        <p><em>Executing ideas through code | Training models | Solving problems ⚡</em></p>
-        <div style="margin-top: 20px;">
-          <a href="https://www.ayushkumarjena.in/" target="_blank"><img src="https://img.shields.io/badge/>_PORTFOLIO-000000?style=for-the-badge&logo=terminal&logoColor=00FF41" alt="Portfolio"></a>
-          <a href="https://www.linkedin.com/in/ayush-kumar-jena-b19151321/" target="_blank"><img src="https://img.shields.io/badge/>_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
-          <a href="https://x.com/AyushJena1504" target="_blank"><img src="https://img.shields.io/badge/>_TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
-          <a href="mailto:ahalyajena28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/>_EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF41" alt="Email"></a>
-        </div>
-      </td>
-      <td width="45%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px;">
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+</div>
+
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E_+$+whoami;%3E_+$+Initializing+system...;Hello,+I'm+Ayush+Kumar+Jena;Software+Engineer+%7C+AI%2FML+Enthusiast;%3E_+$+Access+Granted." alt="Typing SVG" />
+  </h1>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
+  
+  <p><em>Executing ideas through code | Training models | Building the future ⚡</em></p>
+  
+  <div style="margin-top: 20px;">
+    <a href="https://www.ayushkumarjena.in/" target="_blank"><img src="https://img.shields.io/badge/>_PORTFOLIO-000000?style=for-the-badge&logo=terminal&logoColor=00FF41" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/ayush-kumar-jena-b19151321/" target="_blank"><img src="https://img.shields.io/badge/>_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
+    <a href="https://x.com/AyushJena1504" target="_blank"><img src="https://img.shields.io/badge/>_TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
+    <a href="mailto:ahalyajena28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/>_EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF41" alt="Email"></a>
+  </div>
 </div>
 
 <br clear="both">
@@ -98,26 +93,26 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2016%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2913 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌆 Daytime                2926 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-🌃 Evening                2947 commits        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌙 Night                  2926 commits        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+🌞 Morning                2913 commits        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌆 Daytime                2925 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+🌃 Evening                2941 commits        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌙 Night                  2926 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Tuesday                  1733 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Wednesday                1472 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Thursday                 1446 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Friday                   1650 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Saturday                 1793 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Sunday                   1840 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Monday                   1778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  1731 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                1474 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Thursday                 1445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Friday                   1643 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Saturday                 1794 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Sunday                   1840 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 
 
@@ -127,32 +122,30 @@ Sunday                   1840 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-JavaScript               1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-TypeScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Git Config               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JavaScript               29 mins             ████████████░░░░░░░░░░░░░   47.72 % 
+Bash                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+INI                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 10 mins       ███████████████████░░░░░░   77.37 % 
-VS Code                  1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Antigravity              35 mins             ██████████████░░░░░░░░░░░   57.50 % 
+VS Code                  26 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
 
 🐱‍💻 Projects: 
-Class pulse part 2       2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-ClassPulse-main          1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Online Code Complier     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-auto-commit              40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-grpm                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Online Code Complier     52 mins             █████████████████████░░░░   84.47 % 
+grpm                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+auto-commit              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+TypeScript               10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -162,7 +155,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ayushkumarjena15/ayushkumarjena15/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 13:37:49 UTC
+ Last Updated on 24/03/2026 17:53:43 UTC
 <!--END_SECTION:waka-->
 
 ---
