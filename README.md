@@ -1,22 +1,26 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
-</div>
-
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=%3E_+$+whoami;%3E_+$+Initializing+system...;Hello,+I'm+Ayush+Kumar+Jena;Software+Engineer+%7C+AI%2FML+Enthusiast;%3E_+$+Access+Granted." alt="Typing SVG" />
-  </h1>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
-  
-  <p><em>Executing ideas through code | Training models | Building the future ⚡</em></p>
-  
-  <div style="margin-top: 20px;">
-    <a href="https://www.ayushkumarjena.in/" target="_blank"><img src="https://img.shields.io/badge/>_PORTFOLIO-000000?style=for-the-badge&logo=terminal&logoColor=00FF41" alt="Portfolio"></a>
-    <a href="https://www.linkedin.com/in/ayush-kumar-jena-b19151321/" target="_blank"><img src="https://img.shields.io/badge/>_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
-    <a href="https://x.com/AyushJena1504" target="_blank"><img src="https://img.shields.io/badge/>_TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
-    <a href="mailto:ahalyajena28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/>_EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF41" alt="Email"></a>
-  </div>
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlqem5zcWRsOWJqOXI2YjE0a2g1OHVqNjA2NmZpZGo0MXJsYW12NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xonOzxf2M8hNu/giphy.gif" alt="Header Anime GIF" width="100%" style="border-radius: 12px;">
+      </td>
+      <td width="50%" align="left" valign="top">
+        <br>
+        <h1>Hi, I am Ayush! 👋</h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=false&vCenter=true&random=false&width=400&lines=Software+Engineer;AI%2FML+Enthusiast;Building+the+future+⚡" alt="Typing SVG" />
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
+        <br><br>
+        <p><em>Executing ideas through code | Training models | Solving problems ⚡</em></p>
+        <div style="margin-top: 20px;">
+          <a href="https://www.ayushkumarjena.in/" target="_blank"><img src="https://img.shields.io/badge/>_PORTFOLIO-000000?style=for-the-badge&logo=terminal&logoColor=00FF41" alt="Portfolio"></a>
+          <a href="https://www.linkedin.com/in/ayush-kumar-jena-b19151321/" target="_blank"><img src="https://img.shields.io/badge/>_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
+          <a href="https://x.com/AyushJena1504" target="_blank"><img src="https://img.shields.io/badge/>_TWITTER-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"></a>
+          <a href="mailto:ahalyajena28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/>_EMAIL-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF41" alt="Email"></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br clear="both">
