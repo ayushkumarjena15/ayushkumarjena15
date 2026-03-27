@@ -3,7 +3,8 @@
     <tr>
       <td width="55%" align="left" valign="top">
         <br>
-        <h1>Hi, I am Ayush! 👋</h1>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FF41&background=FFFFFF00&center=false&vCenter=true&width=600&lines=Hi,+I'm+Ayush+Kumar+Jena!+%F0%9F%91%8B" alt="Header Name" />
+        <br>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=false&vCenter=true&width=450&lines=Software+Engineer;AI%2FML+Enthusiast;Building+the+Future" alt="Typing SVG" />
         <br>
         <img src="https://komarev.com/ghpvc/?username=ayushkumarjena15&label=PROFILE+VIEWS&color=2E95D3&style=for-the-badge" alt="Profile Views Counter" />
