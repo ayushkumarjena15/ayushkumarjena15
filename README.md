@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Ayush Kumar Jena Banner" width="100%">
+  <img src="githubgif.gif" alt="Ayush Kumar Jena GIF" width="100%">
 </p>
 
 # 💫 About Me:
